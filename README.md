@@ -27,23 +27,7 @@ Represents a healthy, regular heartbeat pattern. This is the baseline against wh
 
 ---
 
-### 2. Atrial Ectopic Beat (A)
-
-A premature heartbeat originating from the atria (upper chambers). Though often benign, frequent occurrences can signal atrial abnormalities or progression toward more serious conditions like AFIB.
-
-*Insert Atrial Ectopic Beat image here*
-
----
-
-### 3. Ventricular Ectopic Beat (V)
-
-Premature heartbeat originating from the ventricles (lower chambers). This includes general ventricular ectopy but may require deeper classification (e.g., PVC or VT) depending on morphology and frequency.
-
-*Insert Ventricular Ectopic Beat image here*
-
----
-
-### 4. Premature Atrial Contraction (PAC)
+### 2. Premature Atrial Contraction (PAC)
 
 A specific type of atrial ectopic beat. The heartbeat comes earlier than normal and originates in the atria. PACs can be triggered by stress, caffeine, or fatigue and are commonly benign but notable when frequent.
 
@@ -51,7 +35,7 @@ A specific type of atrial ectopic beat. The heartbeat comes earlier than normal 
 
 ---
 
-### 5. Premature Ventricular Contraction (PVC)
+### 3. Premature Ventricular Contraction (PVC)
 
 A type of ventricular ectopic beat where the lower chambers beat prematurely. PVCs are characterized by wide and bizarre QRS complexes on ECG. Frequent PVCs may indicate underlying heart disease.
 
@@ -59,7 +43,7 @@ A type of ventricular ectopic beat where the lower chambers beat prematurely. PV
 
 ---
 
-### 6. Atrial Fibrillation (AFIB)
+### 4. Atrial Fibrillation (AFIB)
 
 An irregular and often rapid heartbeat caused by chaotic electrical signals in the atria. AFIB increases the risk of stroke and heart failure. The ECG typically shows no clear P waves and irregular R-R intervals.
 
@@ -67,7 +51,7 @@ An irregular and often rapid heartbeat caused by chaotic electrical signals in t
 
 ---
 
-### 7. Ventricular Fibrillation (VF)
+### 5. Ventricular Fibrillation (VF)
 
 A critical and life-threatening rhythm where the ventricles quiver ineffectively, failing to pump blood. Immediate defibrillation is required. ECG shows rapid, erratic electrical activity with no identifiable QRS complexes.
 
@@ -75,7 +59,7 @@ A critical and life-threatening rhythm where the ventricles quiver ineffectively
 
 ---
 
-### 8. Ventricular Flutter (VFL)
+### 6. Ventricular Flutter (VFL)
 
 A fast but more organized rhythm than VF. VFL can quickly deteriorate into VF and requires urgent treatment. On ECG, it appears as rapid, sine wave-like oscillations without discernible P or T waves.
 
@@ -83,7 +67,7 @@ A fast but more organized rhythm than VF. VFL can quickly deteriorate into VF an
 
 ---
 
-### 9. Ventricular Tachycardia (VT)
+### 7. Ventricular Tachycardia (VT)
 
 A fast heart rhythm originating from the ventricles. It can be sustained or nonsustained, with potential progression to VF. ECG shows wide QRS complexes at a high rate.
 
