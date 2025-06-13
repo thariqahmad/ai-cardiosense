@@ -140,29 +140,17 @@ Contains:
 
 ---
 
-## Future Work
-
-- Real-time arrhythmia detection via IoT devices
-- Explainable AI (XAI) model integration
-- Web and mobile dashboards for result visualization
-- Support for additional databases and fine-grained beat detection
-
----
-
 ## Visual Overview
-
-_You may include the following:_
 
 - AI pipeline diagram
 - Signal segmentation visualization
-- Confusion matrix and metrics
 - ECG overlays with detection annotations
 
 ---
 
 ## Contribution
 
-This repository is currently developed for internal R&D under LPDP. Future plans include open contributions and API-level integration guidelines.
+This repository is currently developed for internal R&D under LPDP.
 
 ---
 
